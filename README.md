@@ -1,90 +1,120 @@
-# AppsWebStore AI
+# AppsWebStore
 
-AppsWebStore AI is an AI-powered Web3 app discovery and crypto intelligence platform built to help users explore crypto tools, discover trending assets, review AI-powered market insights, and install useful Web3 utilities as Progressive Web Apps (PWAs).
+## Web3 App Discovery, Token Safety, Live Markets, and Multi-Chain Swap Access
 
-The project is designed for users who want a simple way to find crypto applications, understand market activity, and access blockchain tools from one mobile-friendly platform.
+AppsWebStore is a Web3 utility platform built to help users discover crypto apps, check token safety, explore live markets, review contract details, and access BNB Chain and Solana swap tools from one place.
 
-## Live Demo
+---
 
-🚀 https://www.appswebstore.com/appswebstore-ai
+## Important Links
 
-## Main Website
+### Main Platform
+🌐 Live Platform  
+https://www.appswebstore.com
 
-🌐 https://www.appswebstore.com
+### Token Safety
+🛡️ Multi-Chain Rug Pull & Token Safety Scanner  
+https://www.appswebstore.com/check
 
-## Apps Web Store Ecosystem
+### Live Markets
+📊 DApp Live Markets and Contract Tools  
+https://www.appswebstore.com/dapp
 
-AppsWebStore AI is part of the wider Apps Web Store crypto ecosystem, which includes market discovery tools and swap utilities for BNB Chain and Solana users.
+### Swap Tools
+🟡 BNB Swap  
+https://www.appswebstore.com/swap/
 
-### 📊 DApp Market Discovery
+🟣 Solana Swap  
+https://www.appswebstore.com/swap/sol/
 
-🔗 https://www.appswebstore.com/dapp
+### App Discovery
+🧭 Browse Apps  
+https://www.appswebstore.com/categories
 
-The DApp page helps users explore live token markets, view token prices, liquidity, volume, contract details, and access direct buy routes for supported assets.
+🛠️ Create App  
+https://www.appswebstore.com/create
 
-### 🟡 BNB Swap
+### Repository
+📁 GitHub Repository  
+https://github.com/dremartdeals-cmd/appswebstore-ai
 
-🔗 https://www.appswebstore.com/swap/
+---
 
-The BNB Swap tool allows users to connect a wallet and access token swap routes on BNB Chain.
+## Platform Features
 
-### 🟣 Solana Swap
+### Discovery
+- Web3 app discovery
+- Crypto app browsing by category
+- App submission and creation tools
+- Mobile-friendly platform experience
 
-🔗 https://www.appswebstore.com/swap/sol
+### Token Safety
+- Multi-chain token safety scanner
+- Rug pull and risk checking tools
+- Contract signal review
+- Safer token research before trading
 
-The Solana Swap tool allows users to connect a Solana wallet and access token swap routes on the Solana network.
+### Live Markets
+- Live token market tracking
+- Token price display
+- Liquidity and volume information
+- Contract address tools
+- Direct buy route access
 
-## Key Features
+### Swap Access
+- BNB Chain swap access
+- Solana swap access
+- Wallet-connected swap tools
+- Multi-chain crypto utility experience
 
-✨ AI-powered coin and market insights  
-🔥 Trending crypto asset discovery  
-🧭 Web3 and crypto app discovery  
-📈 Portfolio concentration analysis  
-📱 Mobile-friendly PWA experience  
-⚡ Installable crypto tools  
-🔎 Simple interface for users exploring Web3  
-🟡 Built for BNB Chain ecosystem adoption  
+---
 
-## What It Does
+## DApp Live Markets
 
-AppsWebStore AI helps users discover crypto-related apps and tools in one place. It combines AI-assisted insights, trending market data, and Web3 discovery features to make crypto tools easier to find, compare, and use.
+The AppsWebStore DApp helps users explore live crypto markets, view token prices, check liquidity, track volume, review contract details, and access direct buy routes for supported assets.
 
-Users can explore crypto assets, view insights, check app categories, and access tools directly from the browser or as installable PWAs.
+DApp Link:  
+https://www.appswebstore.com/dapp
 
-## Built For
+---
 
-🏆 BNB Hack: AI Trading Agent Edition 2026
+## Token Safety Scanner
 
-## Innovation Areas
+The AppsWebStore token safety scanner helps users review token risks before trading. It is designed to support safer Web3 discovery by checking important token and contract signals across supported chains.
 
-🤖 Crypto AI  
-📊 AI trading and market insights  
-🌍 Web3 discovery  
-🚀 Crypto adoption  
-🎓 User education  
-📱 Progressive Web Apps  
+Scanner Link:  
+https://www.appswebstore.com/check
+
+---
+
+## Multi-Chain Swap Tools
+
+AppsWebStore provides dedicated swap tools for BNB Chain and Solana users.
+
+### BNB Swap
+https://www.appswebstore.com/swap/
+
+### Solana Swap
+https://www.appswebstore.com/swap/sol/
+
+---
 
 ## Tech Stack
 
-🧩 PHP  
-🗄️ MySQL  
-⚙️ JavaScript  
-🌐 HTML  
-🎨 CSS  
-📱 Progressive Web Apps (PWA)  
+- PHP
+- MySQL
+- JavaScript
+- HTML
+- CSS
+- Progressive Web Apps
 
-## Use Cases
-
-🔎 Discover crypto and Web3 apps  
-🔥 Explore trending crypto assets  
-🤖 View AI-assisted coin insights  
-📊 Analyze portfolio concentration  
-📱 Access mobile-friendly crypto tools  
-⚡ Install useful tools as PWAs  
+---
 
 ## Project Goal
 
-The goal of AppsWebStore AI is to make crypto discovery easier for everyday users by combining AI insights, app discovery, and simple blockchain tool access in one platform.
+AppsWebStore aims to make Web3 easier to explore by combining app discovery, token safety, live markets, contract tools, and multi-chain swap access in one simple platform.
+
+---
 
 ## License
 
